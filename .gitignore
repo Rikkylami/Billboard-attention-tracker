@@ -1,0 +1,13 @@
+# Python Cache (Junk files Python makes automatically)
+__pycache__/
+*.py[cod]
+
+# Virtual Environments (Don't upload the heavy stuff)
+venv/
+env/
+her_eyes/
+
+# Local Project Data & Logs (Keep your data private!)
+billboard_analytics.csv
+tracker_log.txt
+tracker_errors.txt
