@@ -1,4 +1,4 @@
-# Digital Out-Of-Home (DOOH) Ad Attention Tracker 👀
+# Digital Out-Of-Home (DOOH) Ad Attention Tracker 
 
 Hey everyone! This is my first big computer vision project. It's a tracking script I built to measure how many people are actually looking at digital advertising screens/billboards. It uses realtime face tracking to figure out exactly where someone is looking on a screen and logs it if they stare long enough. 
 
